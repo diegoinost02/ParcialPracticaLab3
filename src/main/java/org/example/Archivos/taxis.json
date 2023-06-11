@@ -1,0 +1,29 @@
+[ {
+  "marca" : "Renault",
+  "modelo" : "Logan",
+  "tipoCombustible" : "Gas",
+  "patente" : "AA234",
+  "bajadaBandera" : 600,
+  "precioKilometro" : 100
+}, {
+  "marca" : "Chevrolet",
+  "modelo" : "Corsa",
+  "tipoCombustible" : "Nafta",
+  "patente" : "AB321",
+  "bajadaBandera" : 600,
+  "precioKilometro" : 100
+}, {
+  "marca" : "Chevrolet",
+  "modelo" : "Corsa",
+  "tipoCombustible" : "Gas",
+  "patente" : "BA598",
+  "bajadaBandera" : 600,
+  "precioKilometro" : 100
+}, {
+  "marca" : "Lamborghini",
+  "modelo" : "Huracán",
+  "tipoCombustible" : "Nafta",
+  "patente" : "BA874",
+  "bajadaBandera" : 1000,
+  "precioKilometro" : 600
+}]

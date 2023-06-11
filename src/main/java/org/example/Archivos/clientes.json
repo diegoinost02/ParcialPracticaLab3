@@ -1,0 +1,21 @@
+[ {
+  "nombre" : "Tomas",
+  "apellido" : "Fernandez",
+  "telefono" : "2235826574",
+  "direccion" : "Calle falsa 123"
+}, {
+  "nombre" : "Maria",
+  "apellido" : "Gomez",
+  "telefono" : "2235685241",
+  "direccion" : "Calle falsa 457"
+}, {
+  "nombre" : "Juan",
+  "apellido" : "Perez",
+  "telefono" : "2236024587",
+  "direccion" : "Calle falsa 999"
+}, {
+  "nombre" : "Micaela",
+  "apellido" : "Ferreira",
+  "telefono" : "2236025897",
+  "direccion" : "Calle falsa 666"
+}]
